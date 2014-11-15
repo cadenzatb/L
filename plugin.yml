@@ -1,0 +1,9 @@
+name: Leveling
+author: tub
+main: Trubby.co.th.Leveling
+description: Upgrade!
+version: 1.0
+commands:
+  sql:
+  connect:
+  check:
